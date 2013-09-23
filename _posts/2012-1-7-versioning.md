@@ -11,6 +11,5 @@ API documentation revisions will be assigned a unique version number in the form
 * MINOR version numbers are incremented when new functionality is introduced which is backwards compatible with existing functionality in the MAJOR version. MINOR versions numbers are semantically compatible with previous MINOR versions.
 * MAJOR version numbers are incremented when new functionality is introduced which is semantically incompatible with previous versions.
 
-`/api/v1/facilities.json`
 
 All prior versions still supported by the code should be exposed by its own URL.
